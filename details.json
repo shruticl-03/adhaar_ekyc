@@ -1,0 +1,54 @@
+{
+    "msg": {
+        "Aadhar No": "XXXXXXXX2162",
+        "Address": "1-90 RAHMATH MANZIL, NERALAKATTE POST, BANTWALA TALUK, , Dakshina Kannada, Neralakatte, Bantwal, Netlamudnur, Karnataka, India, 574253",
+        "Careof": "S/O: Sahul Hameed",
+        "Country": "India",
+        "DOB": "16-11-2000",
+        "District": "Dakshina Kannada",
+        "Document link": "https://ab-mum-prod-truthscreen.s3.ap-south-1.amazonaws.com/d62c9dff-dbb9-4655-a209-499a317789ee.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATBUPJGMTC2FYTAV7%2F20250104%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250104T100519Z&X-Amz-Expires=518400&X-Amz-SignedHeaders=host&X-Amz-Signature=a3f63455b1e5ccbf687e6a68337dd68b0ba2502c254420186b5a8b08c73b3b27",
+        "Gender": "MALE",
+        "House": "1-90 RAHMATH MANZIL",
+        "Image": "https://ab-mum-prod-truthscreen.s3.ap-south-1.amazonaws.com/AADHAR_OTP/10393/a5cff0e5671570bf428f710c089d8fc0_aadhar.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATBUPJGMTC2FYTAV7%2F20250104%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250104T100518Z&X-Amz-Expires=518400&X-Amz-SignedHeaders=host&response-content-disposition=inline&X-Amz-Signature=7e557a40ec906793f33a0b8addd4f453761efedbfe0dd39d9ddbc5c08b5c4a8d",
+        "Landmark": "BANTWALA TALUK",
+        "Locality": "",
+        "Name": "Shahil Ahmed",
+        "Pincode": "574253",
+        "Post Office": "Neralakatte",
+        "Relatationship type": "",
+        "Relative Name": "",
+        "Share Code": "2878",
+        "State": "Karnataka",
+        "Street": "NERALAKATTE POST",
+        "Sub District": "Bantwal",
+        "Village/Town/City": "Netlamudnur"
+    },
+    "status": 1
+}
+{
+    "msg": {
+        "Aadhar No": "XXXXXXXX0580",
+        "Address": "# 560, 1st A Cross, 3rd Stage, 4th Block, , Basaveshwaranagar, Bangalore, Basaveshwaranagar, , Bangalore, Karnataka, India, 560079",
+        "Careof": "S/O Puttaramu D",
+        "Country": "India",
+        "DOB": "28-03-1997",
+        "District": "Bangalore",
+        "Document link": "https://ab-mum-prod-truthscreen.s3.ap-south-1.amazonaws.com/4a6330dc-828f-4ade-820c-0a49697b01dc.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATBUPJGMTC2FYTAV7%2F20250104%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250104T125040Z&X-Amz-Expires=518400&X-Amz-SignedHeaders=host&X-Amz-Signature=0a31d859e5ac8b24ef2b0533fedf285a3a8d151049a464e5e25472bb80fe76ab",
+        "Gender": "MALE",
+        "House": "# 560",
+        "Image": "https://ab-mum-prod-truthscreen.s3.ap-south-1.amazonaws.com/AADHAR_OTP/10393/b4160f4f9bd7286f583e82b99af62b49_aadhar.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATBUPJGMTC2FYTAV7%2F20250104%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250104T125040Z&X-Amz-Expires=518400&X-Amz-SignedHeaders=host&response-content-disposition=inline&X-Amz-Signature=c5dad142a53b2d15c85f22dc2d92f6220bb6cc0960be81df5f6d6a17530814a6",
+        "Landmark": "",
+        "Locality": "Basaveshwaranagar",
+        "Name": "Rohith P",
+        "Pincode": "560079",
+        "Post Office": "Basaveshwaranagar",
+        "Relatationship type": "",
+        "Relative Name": "",
+        "Share Code": "3362",
+        "State": "Karnataka",
+        "Street": "1st A Cross, 3rd Stage, 4th Block",
+        "Sub District": "",
+        "Village/Town/City": "Bangalore"
+    },
+    "status": 1
+}
